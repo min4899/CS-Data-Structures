@@ -1,0 +1,24 @@
+min48@Minwoo-Laptop MINGW32 ~/Desktop/MinwooSoh Project2
+$ java Project2
+Please select how to test the program:
+(1) 20 sets of 100 randomly generated integers
+(2) Fixed integer value 1-100
+Enter choice: 1
+
+Average swaps for series of insertions: 107
+Average swaps for optimal method: 68
+
+min48@Minwoo-Laptop MINGW32 ~/Desktop/MinwooSoh Project2
+$ java Project2
+Please select how to test the program:
+(1) 20 sets of 100 randomly generated integers
+(2) Fixed integer value 1-100
+Enter choice: 2
+
+Heap built using series of insertions: 100,94,99,77,93,98,61,68,76,84,...
+Number of swaps: 480
+Heap after 10 removals: 90,89,62,77,88,53,61,68,76,84,...
+
+Heap built using optimal method: 100,95,99,79,94,98,63,71,78,87,...
+Number of swaps: 96
+Heap after 10 removals: 90,89,63,79,88,55,62,71,78,87,...
